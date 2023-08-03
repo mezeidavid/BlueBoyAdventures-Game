@@ -15,6 +15,9 @@ A játék menete
 2. A 3 kulcssal ki kell nyitni 3 ajtót.
 3. Mindezt minél gyorsabban...
 
+### FIGYELEM! Java Runtime szükséges! 
+Letölthető: [https://www.java.com/en/download/manual.jsp](https://www.java.com/en/download/manual.jsp)
+
 
 **Jó játékot!**
 
